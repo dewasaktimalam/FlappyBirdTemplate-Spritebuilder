@@ -193,7 +193,7 @@
             
         }
     }
-}
+
 
 -(BOOL)ccPhysicsCollisionBegin:(CCPhysicsCollisionPair*)pair character:(CCSprite*)character level:(CCNode*)level {
     [self gameOver];
